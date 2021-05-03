@@ -7,7 +7,7 @@ A specific set of instructions needs to be followed to create a copy of this rep
 3. Keep both the data files named 'data.xlsx' and 'data_1.xlsx' inside the same folder where you will be running the python codes
 
 # Given below is the sequence needed to be followed for running the python codes 
-1.Task1-creation of 3 different .csv files - After running this code you will getting three files titled, 
+ Assignment1 grouping_data.ipynb- After running this code you will getting three files titled, 
   1. 'detail.csv',
   2. 'detailVol.csv' and
   3. 'detailTemp.csv'.
